@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/JeremyEmondLapierre/ex2-firestore.git/static/css/main.79150070.chunk.css",
-    "main.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/main.79c4bb3a.chunk.js",
-    "main.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/main.79c4bb3a.chunk.js.map",
-    "runtime-main.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/runtime-main.b3523092.js",
-    "runtime-main.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/runtime-main.b3523092.js.map",
-    "static/js/2.57ebd678.chunk.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js",
-    "static/js/2.57ebd678.chunk.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js.map",
-    "index.html": "/JeremyEmondLapierre/ex2-firestore.git/index.html",
-    "static/css/main.79150070.chunk.css.map": "/JeremyEmondLapierre/ex2-firestore.git/static/css/main.79150070.chunk.css.map",
-    "static/js/2.57ebd678.chunk.js.LICENSE.txt": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js.LICENSE.txt"
+    "main.css": "/ex2-firestore/static/css/main.79150070.chunk.css",
+    "main.js": "/ex2-firestore/static/js/main.79c4bb3a.chunk.js",
+    "main.js.map": "/ex2-firestore/static/js/main.79c4bb3a.chunk.js.map",
+    "runtime-main.js": "/ex2-firestore/static/js/runtime-main.c5ff2ec6.js",
+    "runtime-main.js.map": "/ex2-firestore/static/js/runtime-main.c5ff2ec6.js.map",
+    "static/js/2.0dd67211.chunk.js": "/ex2-firestore/static/js/2.0dd67211.chunk.js",
+    "static/js/2.0dd67211.chunk.js.map": "/ex2-firestore/static/js/2.0dd67211.chunk.js.map",
+    "index.html": "/ex2-firestore/index.html",
+    "static/css/main.79150070.chunk.css.map": "/ex2-firestore/static/css/main.79150070.chunk.css.map",
+    "static/js/2.0dd67211.chunk.js.LICENSE.txt": "/ex2-firestore/static/js/2.0dd67211.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3523092.js",
-    "static/js/2.57ebd678.chunk.js",
+    "static/js/runtime-main.c5ff2ec6.js",
+    "static/js/2.0dd67211.chunk.js",
     "static/css/main.79150070.chunk.css",
     "static/js/main.79c4bb3a.chunk.js"
   ]
