@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.79150070.chunk.css",
-    "main.js": "/static/js/main.79c4bb3a.chunk.js",
-    "main.js.map": "/static/js/main.79c4bb3a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a1292542.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a1292542.js.map",
-    "static/js/2.5f854e75.chunk.js": "/static/js/2.5f854e75.chunk.js",
-    "static/js/2.5f854e75.chunk.js.map": "/static/js/2.5f854e75.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.79150070.chunk.css.map": "/static/css/main.79150070.chunk.css.map",
-    "static/js/2.5f854e75.chunk.js.LICENSE.txt": "/static/js/2.5f854e75.chunk.js.LICENSE.txt"
+    "main.css": "/JeremyEmondLapierre/ex2-firestore.git/static/css/main.79150070.chunk.css",
+    "main.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/main.79c4bb3a.chunk.js",
+    "main.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/main.79c4bb3a.chunk.js.map",
+    "runtime-main.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/runtime-main.b3523092.js",
+    "runtime-main.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/runtime-main.b3523092.js.map",
+    "static/js/2.57ebd678.chunk.js": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js",
+    "static/js/2.57ebd678.chunk.js.map": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js.map",
+    "index.html": "/JeremyEmondLapierre/ex2-firestore.git/index.html",
+    "static/css/main.79150070.chunk.css.map": "/JeremyEmondLapierre/ex2-firestore.git/static/css/main.79150070.chunk.css.map",
+    "static/js/2.57ebd678.chunk.js.LICENSE.txt": "/JeremyEmondLapierre/ex2-firestore.git/static/js/2.57ebd678.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1292542.js",
-    "static/js/2.5f854e75.chunk.js",
+    "static/js/runtime-main.b3523092.js",
+    "static/js/2.57ebd678.chunk.js",
     "static/css/main.79150070.chunk.css",
     "static/js/main.79c4bb3a.chunk.js"
   ]
